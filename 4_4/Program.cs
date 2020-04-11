@@ -32,7 +32,7 @@ namespace _4_4
                 }
                 Console.Write(cur.Key.ToString());
                 cur = cur.Next;
-            }    
+            }
             Console.Write("\n");
         }
 
